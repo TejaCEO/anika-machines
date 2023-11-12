@@ -328,6 +328,11 @@ ul.arrow-circle-o-right{margin-bottom:30px;list-style:none;font-size:14px;}
 .meta-admin{}
 .post-content{}
 .post-block{}
+
+.down {
+    margin-top: 100%;
+    padding-bottom: 25%;
+   } 
 .post-related{border-bottom:1px solid #eee;padding-bottom:40px;}
 .post-navigation{border-bottom:1px solid #eee;padding-bottom:40px;}
 #tp-location-3 .section-title{text-align:left;margin-bottom:30px;}
